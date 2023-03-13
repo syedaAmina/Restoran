@@ -1,0 +1,44 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+.margin-left-auto
+{
+    margin-left: auto !important;
+}
+.logo h4 {
+    font-size: 40px;
+    color: #FEA116;
+    font-family: nunito,sans-serif;
+    font-weight: bold;
+}
+
+.logo i {
+    font-size: 40px;
+    margin-right: 10px;
+    color: #FEA116;
+    float: left;
+    margin-left: 27px;
+}
+.nav-link {
+    color: white !important;
+    margin-right: 5px !important;
+    margin-left: 5px !important;
+    font-family: 'Heebo',sans-serif;
+}
+.nav-link:hover{
+    color: #FEA116 !important;
+}
+.nav-home {
+    color: #FEA116 !important;
+}
+
+.book button{
+    color: #fff;
+    border: 1px solid #FEA116;
+    border-radius: 0px; 
+
+}
+.book-table{
+    color: #fff !important;
+}

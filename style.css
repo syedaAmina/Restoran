@@ -42,6 +42,7 @@ body{
 .book-table{
     color: #fff !important;
 }
+/* navbar end */
 .banner button {
     width: 180px;
     padding: 10px;
@@ -166,7 +167,7 @@ text-align: center;
 }
 .popular-item {
     text-align: center;
-    margin-top: -84px;
+    margin-top: 50px;
 }
 .popular-item h3 {
     color: #FEA116;
