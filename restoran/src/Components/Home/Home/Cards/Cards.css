@@ -1,0 +1,40 @@
+.top-left {
+    padding-top: 80px;
+    padding-left: 81px;
+}
+.all-card {
+    margin: 120px 36px;
+    padding: 22px 35px;
+}
+.cards {
+    color: #FEA116; 
+    background-color: #fff;
+    height: 260px;
+    border: 1px solid #fff;
+    margin: 32px 10px !important;
+    padding: 17px 23px !important;
+    font-size: 16px;
+    font-family: 'heebo',sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 45px;
+    transition: all 0.5s ease 0s;
+}
+.cards h5{
+    color: black !important ;
+}
+.cards p{
+    color: rgba(0, 0, 0, 0.541) !important;
+}
+ /* .cards h5:hover{ 
+    color: #fff !important;
+}    */
+
+
+.cards i{
+    /* color: #FEA116; */
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.cards:hover{
+    color: #fff ;
+    background-color: #FEA116;
+}

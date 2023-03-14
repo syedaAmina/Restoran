@@ -1,16 +1,13 @@
 import React from 'react'
 import './Banner.css';
-import hero from '../../../../../src/img/hero.png';
-import bghero from '../../../../../src/img/bg-hero.jpg';
+import hero from '../../../../../src/img/hero.png'; 
+
 function Banner() {
   return (
     <div>
-      <section class="banner" style={
-        {
-          background:`url(${bghero})`
-          
-        }
-      }>
+      <section class="banner"
+     
+      >
           <div class="row">
 
             <div class="col-md-6">
